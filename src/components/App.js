@@ -131,7 +131,7 @@ useEffect(() => {
         />
 
         <Footer 
-        footerText = '&copy; 2020 Around The U.S.'
+        footerText = '&copy; 2021 Around The U.S.'
         />
         
       </div>
