@@ -19,6 +19,7 @@ export default function EditProfilePopup(props) {
     props.onUpdateAvatar({
       avatar
     });
+    props.setSubmitStatus(true);
   } 
 
   useEffect(() => {

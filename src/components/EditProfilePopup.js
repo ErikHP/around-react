@@ -27,6 +27,7 @@ export default function EditProfilePopup(props) {
       name,
       about,
     });
+    props.setSubmitStatus(true);
   } 
 
   useEffect(() => {
